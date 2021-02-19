@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+D:\ws-quarkus\quarkus-poc\.metadata\.plugins\org.eclipse.jdt.core
-3859144619.index
